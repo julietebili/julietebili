@@ -23,6 +23,6 @@ Javascript, HTML, CSS...
 
 👯‍♀️ I'm looking to collaborate on various projects.
 
-📫 Reach me on my julietebili
+📫 Reach me on my 08033220799
 
 ⚡️ Fun fact about me, am a  goal getter.
