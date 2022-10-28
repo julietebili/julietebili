@@ -23,6 +23,6 @@ Javascript, HTML, CSS...
 
 👯‍♀️ I'm looking to collaborate on various projects.
 
-📫 Reach me on my network.
+📫 Reach me on my @juliet036.
 
 ⚡️ Fun fact about me, am a  goal getter.
