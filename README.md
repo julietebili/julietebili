@@ -1,6 +1,8 @@
 # Hi, I'm Juliet Ebili! 👋
 
 ## 🚀 About Me
+https://juliet036.github.io/zuri-developers/
+
 I'm a frontend developer based in Nigeria. 
 Energetic and ready to collaborate. 
 Open to new learning and exploit...
