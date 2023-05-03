@@ -23,6 +23,8 @@ Javascript, HTML, CSS...
 
 🧠 I'm currently learning frontend development.
 
+🌱 I’m currently learning Devops.
+
 👯‍♀️ I'm looking to collaborate on various projects.
 
 📫 Reach me on my 08033220799
