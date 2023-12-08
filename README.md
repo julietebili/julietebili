@@ -10,7 +10,7 @@ Kindly reach out to me.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+AWS, Git, Javascript, HTML, CSS...
 
 
 
